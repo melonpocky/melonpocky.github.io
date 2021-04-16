@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About Me
-======
 Hello! Welcome to my site! 
 
 I am a sophomore student majoring in Computer Science, focusing on Cybersecurity at El Camino College.
