@@ -5,7 +5,6 @@ title: "CRA DREU Project Description"
 excerpt: "Project Description"
 author_profile: true
 redirect_from: 
-date: 2014-08-14
 ---
 
 * A description of your research project and goals (as outlined by you and your mentor at the beginning of your project).
