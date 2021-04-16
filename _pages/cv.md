@@ -1,64 +1,69 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
+title: "Curriculum Vitae"
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: 
+- /resume/
 ---
 
-{% include base_path %}
+# Maya Zeng 
 
-Maya Zeng Github <https://github.com/melonpocky>
-
-> LinkedIn <https://www.linkedin.com/in/maya-zeng/>
+> [Github](https://github.com/melonpocky) 
+>
+> [LinkedIn](https://www.linkedin.com/in/maya-zeng) 
 
 # Career Objective
 
-To obtain general experience around the field of Computer Science and to
-potentially build a long-term career within the commercial/research
-field.
+To obtain general experience around the field of Computer Science and to potentially build a long-term career within the commercial/research field.
 
 # Education
 
-**El Camino College- Torrance, CA** Currently Attending
-
+**El Camino College- Torrance, CA** 
+Currently Attending
 GPA: 3.5
 
 -   Transferring within 2021 with a degree in Computer Science
+-   AS in Mathematics
+-   AS in Pre-Engineering
 
 # Related Coursework
 
-Anticipated Classes: Introduction to Assembly, Physics -- Optics and
-Modern Physics
+**Anticipated Classes**
+- Introduction to Assembly
+- Optics and Modern Physics
 
-Computer Science: Introduction to Data Structures, Computer Programming
-in Java, Problem Solving and Program Design in C++, Introduction to
-Discrete Structures, Advanced Programming in C++
+**Computer Science**:
+- Introduction to Data Structures
+- Computer Programming in Java
+- Problem Solving and Program Design in C++
+- Introduction to Discrete Structures, Advanced Programming in C++
 
-Mathematics: Integral/Differential and Multivariable Calculus, Linear
-Algebra and Differential Equations
+**Mathematics**
+- Integral/Differential and Multivariable Calculus
+- Linear Algebra and Differential Equations
 
-Physics: Classical Mechanics, Electricity and Magnetism Physics,
-Physics- Fluids, Heat and Sound
+**Physics**
+- Classical Mechanics
+- Electricity and Magnetism
+- Fluids, Heat and Sound
 
-Engineering: Introduction to Engineering
+**Engineering**
+- Introduction to Engineering
 
 # Skills
+**Programming Languages**
+- C++, Java, Python, Kotlin
 
-Programming Languages: C++, Java, Python, Kotlin
+**Software** 
+- Inkscape, Autodesk Inventor Professional, AutoCAD, MATLAB, Arduino, Microsoft Office, Anaconda, Spyder, Heroku, GitHub, Kali Linux, Wireshark, VMware, AdobeXD
 
-Software: Inkscape, Autodesk Inventor Professional, AutoCAD, MATLAB,
-Arduino, Microsoft Office, Anaconda, Spyder, Heroku, GitHub, Kali Linux,
-Wireshark, VMware, AdobeXD,
-
-Equipment: Universal Systems Laser Cutter, 3D printer
+**Equipment**
+- Universal Systems Laser Cutter, 3D printer
 
 # Research
-
 **NASA Minority University Research & Education Project Innovation& Tech
-Transfer Idea Competition (MITTIC) -- Winner** 9/2018-Present
-
+Transfer Idea Competition (MITTIC) -- Winner** 
+9/2018-Present
 Main Lead -- 150 Contact Hours
 
 -   Developed a concept paper to commercialize a NASA invention
@@ -81,8 +86,15 @@ Main Lead -- 150 Contact Hours
     developed using LaTeX, finalized draft was with Microsoft Word
 
 # Relevant Work Experience
+**Math Study Center -- Torrance, CA**
+Spring 2020 - Summer 2021
+Tutor -- 10 hrs/week
 
-**Assistant App Developer** Summer 2020
+-   Tutored students in Statistics, Math, and Computer Science through
+    Zoom
+
+**Assistant App Developer** 
+Summer 2020
 
 -   Used AdobeXD to create a mockup UI to create the future app
 
@@ -90,16 +102,9 @@ Main Lead -- 150 Contact Hours
 
 -   Used Inkscape to develop the cover page for the app
 
-**Math Study Center -- Torrance, CA** Spring 2020 -Summer 2021
-
-Tutor -- 10 hrs/week
-
--   Tutored students in Statistics, Math, and Computer Science through
-    Zoom
-
 **NASA Technology Transfer, Strategic Partnership Office -- Mountain
-View, CA** Summer 2019
-
+View, CA** 
+Summer 2019
 Technology Transfer Intern -- 500 Contact Hours
 
 -   Learned how to do due diligence process for technical marketing,
@@ -127,14 +132,14 @@ Technology Transfer Intern -- 500 Contact Hours
 
 # Leadership Skills
 
-**Data Science 4 All(DS4A) by Correlation One -- Online** Spring 2021
-
+**Data Science 4 All(DS4A) by Correlation One -- Online** 
+Spring 2021
 DS4A Fellow
 
 -   Learn practical data science skills through case-based learning
 
-**National Cyber League - Online** Spring 2021
-
+**National Cyber League - Online** 
+Spring 2021
 Participant
 
 -   Leverage open source intelligence to identify threats and threat
@@ -154,8 +159,8 @@ Participant
 -   Perform host discovery and service scanning using tools such as
     nmap.
 
-**CodePath Introduction to Cybersecurity -- Online** Spring 2021
-
+**CodePath Introduction to Cybersecurity -- Online** 
+Spring 2021
 Participant
 
 -   Cybersecurity training in a span of 6 weeks and using software such
@@ -169,8 +174,8 @@ Participant
     strategies for protecting and hardening applications through
     Security Shepherd and a CTF Platform made by Facebook.
 
-**CodePath Android Development-- Online** Fall 2020
-
+**CodePath Android Development-- Online** 
+Fall 2020
 Participant
 
 -   Android Development in a span of 6 weeks and created apps using
@@ -207,8 +212,8 @@ Participant
 
     -   Learned how to publish the app in the Google Play Store
 
-**Base 11 STEM Entrepreneur-- Online** Summer 2020
-
+**Base 11 STEM Entrepreneur-- Online** 
+Summer 2020
 Participant
 
 -   Weekly workshops and labs that help develop concepts and principles
@@ -234,9 +239,6 @@ Participant
     the platform while working through an example exercise related to
     the program theme.
 
-```{=html}
-<!-- -->
-```
 -   Utilized IBM Cloud Lite and pre-existing IBM Code Patterns to
     develop solutions to our problem statements
 
@@ -244,8 +246,8 @@ Participant
     panel of judges from IBM.
 
 **NASA L'Space Mission Concept Academy -- Online** **Professional
-Development Program** Summer 2020
-
+Development Program** 
+Summer 2020
 Administration Lead -- 500 Contact Hours
 
 -   Facilitated online meetings on a weekly basis to keep team members
@@ -266,25 +268,18 @@ Administration Lead -- 500 Contact Hours
 -   Manage responsibilities by assigning tasks and communicating
     expected deliverables from stakeholders
 
-**NASA Ames Research Center MakerSpace -- Mountain View, CA** Summer
-2019
+**NASA Ames Research Center MakerSpace -- Mountain View, CA** 
+Summer 2019
 
--   Established a Beehive project in promotion of Social Responsibility
-    > in terms of public outreach and potential future research projects
-    > in relation to bee swarm behavior
-
--   Created a beehive out of acrylic with a team member, refined
-    > collaboration skills
-
+-   Established a Beehive project in promotion of Social Responsibility in terms of public outreach and potential future research projectsnin relation to bee swarm behavior
+-   Created a beehive out of acrylic with a team member, refined collaboration skills
     -   Created a 3d printed object to test the capabilities of the 3d
-        printer
+    printer
+-   Collaborated with the other interns and developed a final presentation to showcase our work to NASA senior management,
+    staff, and fellow interns
 
--   Collaborated with the other interns and developed a final
-    > presentation to showcase our work to NASA senior management,
-    > staff, and fellow interns
-
-**El Camino Cybersecurity Club -- Torrance, CA** 2/2018-2/2019
-
+**El Camino Cybersecurity Club -- Torrance, CA** 
+2/2018-2/2019
 Vice President
 
 -   Brought ideas for what the club should focus on and prepare for
@@ -304,7 +299,6 @@ Vice President
 
 **NASA Community College Aerospace Scholars (NCAS) -- Online**
 9/2017-2/2018
-
 Participant, Publicity and Outreach Coordinator
 
 -   While at Ames Research Center, worked with community college
@@ -315,98 +309,79 @@ Participant, Publicity and Outreach Coordinator
     with 8 group members before and during the challenge
 
 # Extracurricular Activities
-
-**Cryptohack-Online** Winter 2020-Present
-
+**Cryptohack-Online** 
+Winter 2020-Present
 10 Contact Hours
 
 -   A gamified way to learn cryptography principles
 
-**TryHackMe-Online** Winter 2020-Present
-
+**TryHackMe-Online** 
+Winter 2020-Present
 30 Contact Hours
 
 -   A gamified way to learn cybersecurity principles
 
--   Learned concepts such as (but not limited to): Cross-Site Injection,
-    > Blue Teaming, Fuzzing and more
+-   Learned concepts such as (but not limited to): Cross-Site Injection, Blue Teaming, Fuzzing and more
+    
+-   Participated in AdventOfCyber, a beginner introduction to cybersecurity concepts lasting till Christmas
 
--   Participated in AdventOfCyber, a beginner introduction to
-    > cybersecurity concepts lasting till Christmas
+-   Finished all the rooms and earned certificate of completion from  the event
+    
+-   Participated in other rooms provided in the site to learn more about cybersecurity
 
-    -   Finished all the rooms and earned certificate of completion from
-        > the event
-
--   Participated in other rooms provided in the site to learn more about
-    > cybersecurity
-
-**Hoppers Roppers Academy- Online** Winter 2020 -Present
-
+**Hoppers Roppers Academy- Online** 
+Winter 2020 -Present
 10 Contact Hours
 
--   Self-paced course to learn about different cybersecurity
-    > fundamentals
+-   Self-paced course to learn about different cybersecurity fundamentals
 
-**The Coding School Qubit by Qubit-Online** Fall 2020 -- Present
-
+**The Coding School Qubit by Qubit-Online** 
+Fall 2020 -- Present
 Participant -- 60 Contact Hours
 
--   Introductory course to the emerging field of Quantum Computing.
-    > Learned about the foundational concepts in quantum computation,
-    > including superposition, entanglement, superdense coding, and
-    > quantum teleportation.
+-   Introductory course to the emerging field of Quantum Computing. Learned about the foundational concepts in quantum computation, including superposition, entanglement, superdense coding, and quantum teleportation.
 
-**El Camino College VEX Robotics -- Torrance, CA** 9/2017-1/2020
-
+**El Camino College VEX Robotics -- Torrance, CA**
+9/2017-1/2020
 Student Member/Volunteer/Club Representative
 
--   Volunteered as Judge Advisor and Referee for VEX high school and
-    > middle school tournaments
-
+-   Volunteered as Judge Advisor and Referee for VEX high school and  middle school tournaments
+    
 -   Managed component inventory and assisted in drafting robot designs
 
--   Established a Github Organization and Website for the club, enhanced
-    > skills in version control software and website development:
-    > ECCRoboticsClub.github.io
+-   Established a Github Organization and Website for the club, enhanced skills in version control software and website development: ECCRoboticsClub.github.io
 
--   Assisted in code standardization and development by creating a
-    > library in the organization's Github
+-   Assisted in code standardization and development by creating a library in the organization's Github
 
-**El Camino College MESA Program-- Torrance, CA** 9/2017-Present
-
+**El Camino College MESA Program-- Torrance, CA** 
+9/2017-Present
 Student Member
 
 **El Camino College Honors Transfer Program-- Torrance, CA**
 9/2017-Present
-
 Student Member
 
 **Women in the Technology/Society of Women Engineers -- Torrance, CA**
 9/2017-1/2020
-
 Student Member/Volunteer/Club Representative
 
 -   Designed club\'s marketing material using Canva
 
--   Participated in club activities such as hackathons and talks to
-    > develop skills such as networking and collaboration
+-   Participated in club activities such as hackathons and talks to develop skills such as networking and collaboration
 
 # Certifications
 
 -   American CPR Training for Adult Child Infant CARE CPR and First Aid
-    > Certified Date: 7/24/2019
-
-> Expiration Date: 7/24/2021
+Certified Date: 7/24/2019
+Expiration Date: 7/24/2021
 
 -   QPR Suicide Prevention Gatekeeper Program Certified Date: 5/22/2016
-
-> Expiration Date: 5/22/2017
+Expiration Date: 5/22/2017
 
 # Miscellaneous
 
-**Nation Center for Women & Information Technology** 12/2020
-
+**Nation Center for Women & Information Technology** 
+12/2020
 Finalist
 
--   Presented and described the impact and innovation of the Portable
-    > Wireless Signal Booster
+-   Presented and described the impact and innovation of the Portable Wireless Signal Booster
