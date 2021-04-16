@@ -1,6 +1,5 @@
 ---
 permalink: /cradreu/project-description
-collection: cradreu
 title: "CRA DREU Project Description"
 excerpt: "Project Description"
 author_profile: true

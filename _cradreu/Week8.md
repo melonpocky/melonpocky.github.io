@@ -7,6 +7,4 @@ redirect_from:
 #  - /about/
 #  - /about.html
 ---
-
-Week 8 Report
-======
+To be Announced

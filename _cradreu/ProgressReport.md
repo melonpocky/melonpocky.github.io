@@ -7,10 +7,6 @@ redirect_from:
 #  - /about/
 #  - /about.html
 ---
-
-CRA DREU Progress Report
-======
-
 * A brief description of your project:
 * How many weeks have you worked so far, and how many weeks do you have left?
 * What is the status of your project? (include what you have accomplished so  far and what you expect to accomplish in the rest of the summer)
