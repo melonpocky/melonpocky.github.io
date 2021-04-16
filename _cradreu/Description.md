@@ -1,5 +1,5 @@
 ---
-permalink: /cradreu/
+permalink: /cradreu/project-description
 title: "CRA DREU Project Description"
 excerpt: "Project Description"
 author_profile: true

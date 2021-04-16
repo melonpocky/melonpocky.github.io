@@ -1,5 +1,5 @@
 ---
-permalink: /cradreu
+permalink: /cradreu/week8
 title: "CRA DREU Week 8"
 excerpt: "Week 8"
 author_profile: true
