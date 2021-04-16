@@ -241,7 +241,7 @@ defaults:
       path: ""
       type: cradreu
     values:
-      layout: cradreu
+      layout: single
       author_profile: true
       share: true
 
