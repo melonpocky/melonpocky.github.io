@@ -1,11 +1,10 @@
 ---
 permalink: /cradreu/project-description
+collection: cradreu
 title: "CRA DREU Project Description"
 excerpt: "Project Description"
 author_profile: true
 redirect_from: 
-#  - /about/
-#  - /about.html
 ---
 
 CRA DREU Project Description
