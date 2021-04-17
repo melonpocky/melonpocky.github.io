@@ -9,6 +9,7 @@ redirect_from:
 # Maya Zeng 
 
 > [Github](https://github.com/melonpocky) 
+> 
 > [LinkedIn](https://www.linkedin.com/in/maya-zeng) 
 
 # Career Objective
@@ -19,6 +20,7 @@ To obtain general experience around the field of Computer Science and to potenti
 
 **El Camino College- Torrance, CA** 
 >Currently Attending
+>
 >GPA: 3.5
 
 -   Transferring within 2021 with a degree in Computer Science
@@ -63,6 +65,7 @@ To obtain general experience around the field of Computer Science and to potenti
 **NASA Minority University Research & Education Project Innovation& Tech
 Transfer Idea Competition (MITTIC) -- Winner** 
 >9/2018-Present
+>
 >Main Lead -- 150 Contact Hours
 
 -   Developed a concept paper to commercialize a NASA invention
@@ -87,6 +90,7 @@ Transfer Idea Competition (MITTIC) -- Winner**
 # Relevant Work Experience
 **Math Study Center -- Torrance, CA**
 >Spring 2020 - Summer 2021
+>
 >Tutor -- 10 hrs/week
 
 -   Tutored students in Statistics, Math, and Computer Science through
@@ -133,12 +137,14 @@ Technology Transfer Intern -- 500 Contact Hours
 
 **Data Science 4 All(DS4A) by Correlation One -- Online** 
 >Spring 2021
+>
 >DS4A Fellow
 
 -   Learn practical data science skills through case-based learning
 
 **National Cyber League - Online** 
 >Spring 2021
+>
 >Participant
 
 -   Leverage open source intelligence to identify threats and threat
@@ -160,6 +166,7 @@ Technology Transfer Intern -- 500 Contact Hours
 
 **CodePath Introduction to Cybersecurity -- Online** 
 >Spring 2021
+>
 >Participant
 
 -   Cybersecurity training in a span of 6 weeks and using software such
@@ -175,6 +182,7 @@ Technology Transfer Intern -- 500 Contact Hours
 
 **CodePath Android Development-- Online** 
 >Fall 2020
+>
 >Participant
 
 -   Android Development in a span of 6 weeks and created apps using
@@ -213,6 +221,7 @@ Technology Transfer Intern -- 500 Contact Hours
 
 **Base 11 STEM Entrepreneur-- Online** 
 >Summer 2020
+>
 >Participant
 
 -   Weekly workshops and labs that help develop concepts and principles
@@ -223,6 +232,7 @@ Technology Transfer Intern -- 500 Contact Hours
 
 **IBM Good Tech Scholars Program-- Online** 
 >Summer 2020
+>
 >Participant
 
 -   Identified data-related challenges pertaining to the theme of
@@ -247,6 +257,7 @@ Technology Transfer Intern -- 500 Contact Hours
 **NASA L'Space Mission Concept Academy -- Online** **Professional
 Development Program** 
 >Summer 2020
+>
 >Administration Lead -- 500 Contact Hours
 
 -   Facilitated online meetings on a weekly basis to keep team members
@@ -279,6 +290,7 @@ Development Program**
 
 **El Camino Cybersecurity Club -- Torrance, CA** 
 >2/2018-2/2019
+>
 >Vice President
 
 -   Brought ideas for what the club should focus on and prepare for
@@ -298,6 +310,7 @@ Development Program**
 
 **NASA Community College Aerospace Scholars (NCAS) -- Online**
 >9/2017-2/2018
+>
 >Participant, Publicity and Outreach Coordinator
 
 -   While at Ames Research Center, worked with community college
@@ -310,12 +323,14 @@ Development Program**
 # Extracurricular Activities
 **Cryptohack-Online** 
 >Winter 2020-Present
+>
 >10 Contact Hours
 
 -   A gamified way to learn cryptography principles
 
 **TryHackMe-Online** 
 >Winter 2020-Present
+>
 >30 Contact Hours
 
 -   A gamified way to learn cybersecurity principles
@@ -330,12 +345,14 @@ Development Program**
 
 **Hoppers Roppers Academy- Online** 
 >Winter 2020 -Present
+>
 >10 Contact Hours
 
 -   Self-paced course to learn about different cybersecurity fundamentals
 
 **The Coding School Qubit by Qubit-Online** 
 >Fall 2020 -- Present
+>
 >Participant -- 60 Contact Hours
 
 -   Introductory course to the emerging field of Quantum Computing. Learned about the foundational concepts in quantum computation, including superposition, entanglement, superdense coding, and quantum teleportation.
@@ -354,14 +371,17 @@ Student Member/Volunteer/Club Representative
 
 **El Camino College MESA Program-- Torrance, CA** 
 >9/2017-Present
+>
 >Student Member
 
 **El Camino College Honors Transfer Program-- Torrance, CA**
 >9/2017-Present
+>
 >Student Member
 
 **Women in the Technology/Society of Women Engineers -- Torrance, CA**
 >9/2017-1/2020
+>
 >Student Member/Volunteer/Club Representative
 
 -   Designed club\'s marketing material using Canva
@@ -372,16 +392,19 @@ Student Member/Volunteer/Club Representative
 
 -   American CPR Training for Adult Child Infant CARE CPR and First Aid
 >Certified Date: 7/24/2019
+>
 >Expiration Date: 7/24/2021
 
 -   QPR Suicide Prevention Gatekeeper Program 
 >Certified Date: 5/22/2016
+>
 >Expiration Date: 5/22/2017
 
 # Miscellaneous
 
 **Nation Center for Women & Information Technology** 
 >12/2020
+>
 >Finalist
 
 -   Presented and described the impact and innovation of the Portable Wireless Signal Booster
