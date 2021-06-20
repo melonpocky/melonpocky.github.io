@@ -9,3 +9,8 @@ redirect_from:
 ---
 To get my feet wet on the work entailed in the project, I was assigned a file to analyze the degree distribution amongst collaborators. From there, I would plot my graph and distributions.
 Link to the Graph Analysis presentation is here: <a href="melonpocky.github.io/files/Graph Analysis.pdf" target="_blank">PDF.</a>
+
+Trying to see if embed works
+
+<embed src="melonpocky.github.io/files/Graph Analysis.pdf" width="500" height="375" 
+ type="application/pdf">
