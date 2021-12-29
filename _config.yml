@@ -187,7 +187,10 @@ collections:
   cradreu:
     output: true
     permalink: /:collection/:path/  
-  dsa4a:
+  ds4a:
+    output: true
+    permalink: /:collection/:path/
+  cybersecurity:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -250,7 +253,15 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _dsa4a
+  # _ds4a
+  - scope:
+      path: ""
+      type: dsa4a
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _cybersecurity
   - scope:
       path: ""
       type: dsa4a

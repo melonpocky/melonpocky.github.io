@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Cybersecurity Writeups and More"
+permalink: /cybersecurity/
+author_profile: true
+---
+<h1>Description</h1>
+<p>
+A place for posts that revolve around general cybersecurity topics and principles. Again, a WIP.
+</p>
+
+{% include base_path %}
+
+{% for post in site.cradreu reversed %}
+  {% include archive-single.html %}
+{% endfor %}
