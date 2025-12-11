@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Data Science and More"
+permalink: /datascience/
+author_profile: true
+---
+<h1>Description</h1>
+<p>
+A place for posts that revolve around general data science topics and principles. Again, a WIP.
+</p>
+
+{% include base_path %}
+
+{% for post in site.datascience reversed %}
+  {% include archive-single.html %}
+{% endfor %}
