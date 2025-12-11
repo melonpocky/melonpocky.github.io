@@ -9,11 +9,13 @@ main:
   - title: "CRA DREU"
     url: /cradreu/    
 
-  - title: "C1 DS4A"
-    url: /ds4a/   
+  - title: "Data Science"
+    url: /datascience/   
     
   - title: "Cybersecurity"
     url: /cybersecurity/
+
+
 
 #  - title: "Portfolio"
 #    url: /portfolio/

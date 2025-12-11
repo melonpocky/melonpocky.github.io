@@ -187,7 +187,7 @@ collections:
   cradreu:
     output: true
     permalink: /:collection/:path/  
-  ds4a:
+  datascience:
     output: true
     permalink: /:collection/:path/
   cybersecurity:
@@ -253,10 +253,10 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _ds4a
+  # _datascience
   - scope:
       path: ""
-      type: dsa4a
+      type: datascience
     values:
       layout: single
       author_profile: true
@@ -264,7 +264,7 @@ defaults:
   # _cybersecurity
   - scope:
       path: ""
-      type: dsa4a
+      type: cybersecurity
     values:
       layout: single
       author_profile: true
